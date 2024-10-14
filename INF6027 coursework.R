@@ -100,8 +100,8 @@ webshot::install_phantomjs()
 
 IMD_Scores_corr %>%
   kbl(caption = "Correlation scores between selected variables in dataset") %>%
-  kable_classic(full_width = F, html_font = "Cambria", font_size = 16) %>% 
-  save_kable("Charts/correlation_table.html")
+  kable_classic(html_font = "Cambria", font_size = 16) %>% 
+  save_kable("Charts/correlation_table.pdf")
 
 #correlation plot with all variables
 

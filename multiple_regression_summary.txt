@@ -4,10 +4,10 @@
                     -----------------------------
                               HDDScore           
 -------------------------------------------------
-IncScore                     -13.113***          
-                               (0.180)           
+IncScore                     -12.907***          
+                               (0.176)           
                                                  
-EduScore                      -0.043***          
+EduScore                      -0.044***          
                                (0.001)           
                                                  
 CriScore                      -0.190***          
@@ -16,47 +16,47 @@ CriScore                      -0.190***
 EnvScore                      -0.025***          
                               (0.0005)           
                                                  
-IMDScore                      0.135***           
+IMDScore                      0.136***           
                                (0.001)           
                                                  
-EmpScore                      -1.695***          
-                               (0.211)           
+EmpScore                      -1.846***          
+                               (0.208)           
                                                  
 BHSScore                      -0.034***          
                                (0.001)           
                                                  
-IDCScore                      1.783***           
-                               (0.066)           
+IDCScore                      1.724***           
+                               (0.065)           
                                                  
-IDOScore                      2.239***           
-                               (0.048)           
+IDOScore                      2.161***           
+                               (0.047)           
                                                  
-CYPScore                      0.345***           
+CYPScore                      0.353***           
                                (0.007)           
                                                  
-ASScore                       2.441***           
+ASScore                       2.545***           
                                (0.050)           
                                                  
-GBScore                       0.074***           
+GBScore                       0.068***           
                                (0.008)           
                                                  
-WBScore                       0.012***           
+WBScore                       0.011***           
                                (0.002)           
                                                  
-OutScore                      0.052***           
+OutScore                      0.053***           
                                (0.005)           
                                                  
-IndScore                      0.166***           
+IndScore                      0.167***           
                                (0.007)           
                                                  
-Constant                      -0.288***          
+Constant                      -0.297***          
                                (0.019)           
                                                  
 -------------------------------------------------
 Observations                   22,990            
-R2                              0.853            
-Adjusted R2                     0.853            
-Residual Std. Error      0.330 (df = 22974)      
-F Statistic         8,888.392*** (df = 15; 22974)
+R2                              0.856            
+Adjusted R2                     0.856            
+Residual Std. Error      0.328 (df = 22974)      
+F Statistic         9,120.152*** (df = 15; 22974)
 =================================================
 Note:                 *p<0.1; **p<0.05; ***p<0.01
