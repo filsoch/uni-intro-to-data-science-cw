@@ -24,6 +24,7 @@ RQ2: What are the best predictors of higher all-cause mortality for people livin
 The study is based on secondary data analysis of the 2019 IMD dataset, which categorizes deprivation into seven domains (e.g., income, employment, health) across 32,844 areas in England. The key variable of interest is the Health Deprivation and Disability (HDD) score, which reflects an area's overall health deprivation.
 
 Steps in Analysis:
+- Data Preprocessing: Preparing the IMD dataset by selecting relevant variables.
 - Comparative Analysis: Comparison between the 100 most and least health-deprived areas based on IMD domains.
 - Correlation Analysis: Conducted to identify which variables are most correlated with the HDD score. Variables with a correlation coefficient below 0.3 were removed.
 - Simple and Multiple Linear Regression: Used to predict health deprivation using the most correlated variables.
@@ -38,17 +39,11 @@ Steps in Analysis:
 
 ### Conclusion
 The study concluded that income and employment are the strongest predictors of health deprivation in England, confirming previous research findings. However, it also noted the absence of a strong correlation with factors such as the living environment, which contradicts some prior studies.
+The findings demonstrate the importance of socioeconomic factors, particularly employment, in influencing health outcomes. Overall, the coursework provides insights into using data analysis for understanding the social determinants of health and guides future research into effective public health interventions.
 
 ### Limitations
 The analysis had several limitations:
 
-Data Limitation: Only the 2019 IMD dataset was used. Including data from other years or regions could have improved the robustness of the results.
-High Collinearity: The high correlation among predictor variables could affect the reliability of the regression models.
-Use of Secondary Data: The study was based entirely on secondary data, which limited its scope. A longitudinal study involving participants could provide more detailed insights into mortality risks.
-Code Implementation
-The coursework outlines steps in data analysis using R, including:
-
-Data Preprocessing: Preparing the IMD dataset by selecting relevant variables.
-Correlation Analysis: Creating a correlation matrix and filtering variables.
-Linear Regression Modeling: Developing simple and multiple linear regression models, evaluating them using metrics such as R² and SSE, and interpreting the coefficients.
-The findings demonstrate the importance of socioeconomic factors, particularly employment, in influencing health outcomes. Overall, the coursework provides insights into using data analysis for understanding the social determinants of health and guides future research into effective public health interventions.
+- Data Limitation: Only the 2019 IMD dataset was used. Including data from other years or regions could have improved the robustness of the results.
+- High Collinearity: The high correlation among predictor variables could affect the reliability of the regression models.
+- Use of Secondary Data: The study was based entirely on secondary data, which limited its scope. A longitudinal study involving participants could provide more detailed insights into mortality risks.
