@@ -2,6 +2,12 @@
 This repository contains code for my university coursework project from Intro to Data Science module. This coursework project focused on the impact of socioeconomic factors on all-cause mortality in England.
 It emphasizes that socioeconomic deprivation—characterized by factors such as low income, unemployment, and poor education—has a significant effect on an individual's risk of premature death. The IMD was used to measure
 deprivation across different areas in England, accounting for factors like income, employment, education, health, and living conditions.
+- The **Charts** folder contains charts and tables that I've used in my coursework
+- Regression model summary statistics (such as R^2 values, AIC, coefficients, etc.) are contained in multiple_regression_summary.txt and simple_regression_summary.txt text files
+- This repo **DOES NOT** contain the written part of my coursework, just the code and charts/tables.
+
+
+## Coursework Summary
 
 ### Literature Review
 Previous studies have established the relationship between socioeconomic status and health outcomes. The coursework cited research showing that people in deprived areas have a higher risk of premature death,
