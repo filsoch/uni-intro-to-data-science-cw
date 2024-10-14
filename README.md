@@ -5,7 +5,7 @@ deprivation across different areas in England, accounting for factors like incom
 - The **Charts** folder contains charts and tables that I've used in my coursework
 - Regression model summary statistics (such as R^2 values, AIC, coefficients, etc.) are contained in multiple_regression_summary.txt and simple_regression_summary.txt text files
 - This repo **DOES NOT** contain the written part of my coursework, just the code and charts/tables.
-
+- Below I give a brief summary of the written part of the coursework
 
 ## Coursework Summary
 
