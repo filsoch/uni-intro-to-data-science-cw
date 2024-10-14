@@ -210,7 +210,7 @@ ggsave("Charts/regression_2.png", plot = reg_plot_150,
        height = 10,
        units = ("in"))
 
-stargazer(all_predictor_model, type = "html",
-          out = "multiple_regression_summary.html")
-stargazer(mod_income, type = "html",
-          out = "simple_regression_summary.html")
+stargazer(all_predictor_model, type = "text",
+          out = "multiple_regression_summary.txt")
+stargazer(mod_income, type = "text",
+          out = "simple_regression_summary.txt")
